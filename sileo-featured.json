@@ -4,7 +4,7 @@
     "itemCornerRadius":20,
     "banners": [
         {
-            "url": "https://github.com/Qi-Ting-Zhang/repo/images/jdzlogo.png",
+            "url": "https://qi-ting-zhang.github.io/repo/images/jdzlogo.png",
             "title": "",
             "package":"AppData",
             "hideShadow": true

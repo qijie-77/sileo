@@ -222,7 +222,6 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    filter： none；
     min-height: 100vh;
     /* 添加背景 */
     /*background-image: url('bj.jpg');
@@ -246,6 +245,7 @@ h1 {
     padding: 1.5vw 1vw 2vw;
     letter-spacing: 3px;
     text-transform: uppercase;
+    filter：none；
 }
 
 /* //title */

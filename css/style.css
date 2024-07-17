@@ -257,7 +257,7 @@ h1 {
 .bg-content-w3pvt {
     max-width: 400px;
     margin: 0 auto;
-    background: rgba(255, 255, 255, .6);
+    background: 0;
     backdrop-filter: blur(10px);
     text-align: center;
 }

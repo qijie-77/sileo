@@ -25,7 +25,7 @@ gzip -fk Packages
 
 # Create the Release file
 cat <<EOF > Release
-Origin: 没有谁可以审判我
+Origin: 你看，又急
 Label: 贾队长
 Suite: stable
 Version: 1.0

@@ -5,18 +5,18 @@
     "banners": [
         {
             "url": "https://qi-ting-zhang.github.io/repo/images/jdzlogo.png",
-            "title": "老师，我太想进步了",
+            "title": "",
             "package":"AppData",
             "hideShadow": true
         },
         {
-            "url": "https://qi-ting-zhang.github.io/repo/images/鱿鱼Pro.png",
+            "url": "https://qi-ting-zhang.github.io/sileo/images/鱿鱼Pro.png",
             "title": "手势Pro",
             "package":"com.lclrc.squidgesturepro",
             "hideShadow": true
         },
         {
-            "url": "https://qi-ting-zhang.github.io/repo/images/zyjw.png",
+            "url": "https://qi-ting-zhang.github.io/sileo/images/zyjw.png",
             "title": "你看，又急",
             "package":"AppData",
             "hideShadow": true

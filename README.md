@@ -22,8 +22,8 @@
 ![](http://profile-counter.glitch.me/evilbutcher/count.svg)
 
 <!-- links -->
-[your-project-path]:axs6/repo
-[forks-shield]: https://img.shields.io/github/forks/axs6/repo.svg?style=flat-square
-[forks-url]: https://github.com/axs6/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/axs6/repo.svg?style=flat-square
-[stars-url]: https://github.com/axs6/repo/stargazers
+[your-project-path]:Qi-Ting-Zhang/repo
+[forks-shield]: https://img.shields.io/github/forks/Qi-Ting-Zhang/repo.svg?style=flat-square
+[forks-url]: https://github.com/Qi-Ting-Zhang/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/Qi-Ting-Zhang/repo.svg?style=flat-square
+[stars-url]: https://github.com/Qi-Ting-Zhang/repo/stargazers

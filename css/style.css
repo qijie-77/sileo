@@ -258,7 +258,7 @@ h1 {
     max-width: 400px;
     margin: 0 auto;
     background: 0;
-    backdrop-filter: blur(0px);
+    /*毛玻璃注释backdrop-filter: blur(0px);*/
     text-align: center;
 }
 

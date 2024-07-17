@@ -214,8 +214,8 @@ body {
 }
 
 .main-bg {
-    /* background: url(../images/beijing.png) no-repeat center; */
-    /* background-image: linear-gradient(0deg, #30DDCE 0%, #536976 100%); */
+     background: url(bj.jpg) no-repeat center; */
+    background-image: linear-gradient(0deg, #30DDCE 0%, #536976 100%); */
     background-color: transparent;
     background-size: cover;
     -webkit-background-size: cover;
@@ -224,10 +224,10 @@ body {
     -ms-background-size: cover;
     min-height: 100vh;
     /* 添加背景 */
-    background-image: url('bj.jpg');
-    background-size: cover; /* 确保图片覆盖整个背景 */
-    background-position: center; /* 图片居中 */
-    background-repeat: no-repeat; /* 防止图片重复 */
+    /*background-image: url('bj.jpg');
+    /*background-size: cover; /* 确保图片覆盖整个背景 */
+   /* background-position: center; /* 图片居中 */
+   /* background-repeat: no-repeat; /* 防止图片重复 */
 }
 
 @keyframes Gradient {

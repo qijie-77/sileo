@@ -222,6 +222,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
+    filter： none；
     min-height: 100vh;
     /* 添加背景 */
     /*background-image: url('bj.jpg');

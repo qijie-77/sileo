@@ -25,11 +25,11 @@ gzip -fk Packages
 
 # Create the Release file
 cat <<EOF > Release
-Origin: 💫Axs pro✨
-Label: 💫Axs pro✨
+Origin: 没有谁可以审判我
+Label: 贾队长
 Suite: stable
 Version: 1.0
-Codename: VCR666y
+Codename: qtz
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用插件分享，有问题请卸载！！！

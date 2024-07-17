@@ -1,0 +1,17 @@
+Package: com.lclrc.squidgesturepro
+Version: 2.1.7
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 10940
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.7_iphoneos-arm64.deb
+Size: 3479980
+MD5sum: 4df5f4335d13844526e46f4edb7c7325
+SHA1: 9f9b425de94db12ac61f4c1fb331ad896c040722
+SHA256: 01714dfb3b4f1fb187a9343e23c7d389524e00dc13a1eb9a41d2ec35b0aae093
+Section: Tweaks
+Description: Gestures
+Author: SquidForce
+Name: SquidGesture Pro
+

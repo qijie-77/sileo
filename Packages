@@ -1,21 +1,3 @@
-Package: byg.iosios.net.zetsu.cn.rl
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Depends: jp.dcsyhi.zetsu, ws.hbang.common
-Conflicts: byg.iosios.ney.zetsurootless15
-Filename: debs/byg.iosios.net.zetsu.cn.rl_1.5_iphoneos-arm64.deb
-Size: 13358
-MD5sum: 5874d22771e9729687776f4b9b03fb78
-SHA1: 99e127a835d2d9561ae9a5fcd0ed9612b8ed4d19
-SHA256: 9e292e02565618749b6bb9c3f4acaea7c8b6de75a5b114c329e311fa1c734e20
-Section: 插件依赖
-Description: Zetsu 简体中文包(rootless)。安装之后，会使你的Zetsu插件变成中文显示！
-Author: Mo
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Zetsu 分屏中文汉化插件-Rootless
-Sponsor: 搬运工
-
 Package: com.hitori.misaki
 Version: 2.0.9
 Architecture: iphoneos-arm64
@@ -280,9 +262,9 @@ Installed-Size: 1056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.sunshinesong.split-view-pro_0.0.3-1-47+debug_iphoneos-arm64.deb
 Size: 289452
-MD5sum: ec814c4f447c4d59b2b7ef61a00c1af7
-SHA1: 497f672e04d3f4eddc8956e85b6d1f022e5d99b9
-SHA256: 580603eff2011c06ac952644a41761aa48380dcb59e5bf1718fb5992c296062a
+MD5sum: c539aa593b5b594c6251fb8069ed6ded
+SHA1: 9f91ca334eb6fb216e619aac26f29dd86d8c4d1a
+SHA256: 4c43462f30860e3d1cc32180f5a32ffb487b0e02e0d0a8778d20be80d6848d94
 Section: 分屏＆小窗
 Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
 Author: sunshinesong
@@ -295,11 +277,11 @@ Maintainer: sunshinesong
 Installed-Size: 12856
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.sunshinesong.split-view-pro_1.1.2_iphoneos-arm64.deb
-Size: 4886730
-MD5sum: b48d8187c23713260315d3fa54d05187
-SHA1: 39ffbbe57036311f37f484e53fe98c1ff9ffd7ae
-SHA256: 5fefc0a9529f72e446fb05ac8584471a955874a7a683870e20c5c5c58ccc9c9b
-Section: 分屏
+Size: 4886334
+MD5sum: 924764bea35aaf75a1b0882a41c45ee8
+SHA1: c2ea6090fe5a818503e09d5160ea4bc45056c8da
+SHA256: 62a98505cc0d671e7a1059b93e167a6b693a63e7824b15c99c7baacdf8e31779
+Section: 分屏＆小窗
 Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
 Author: sunshinesong
 Name: split-view-pro
@@ -312,11 +294,11 @@ Maintainer: sunshinesong
 Installed-Size: 13760
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.sunshinesong.split-view-pro_1.1.3_iphoneos-arm64.deb
-Size: 5231324
-MD5sum: 7cf92b43cbfd30f779d0a68ab9751e9b
-SHA1: 7d39a5a85925cafe0ecfc76926ed3189ff3f02b2
-SHA256: f102c2f526e6c9e98e2f29128644f373796e2fd8a4497a47227b489d9c76f808
-Section: 分屏
+Size: 5230944
+MD5sum: 91fee3668d9ec1adb32913475df37a2e
+SHA1: 66064511b97ba0149739440bed99f45451b34c1c
+SHA256: a814f16774e22ac21557d482014119e8e5424ccdd960a5e4f47d1a36b8f75cd5
+Section: 分屏＆小窗
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
@@ -329,10 +311,10 @@ Maintainer: sunshinesong
 Installed-Size: 13792
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64.deb
-Size: 3517290
-MD5sum: ad2acf99a736fc7de584e6d3eddb3206
-SHA1: 1616711e8f8a7fa534a253bc7b2001d024b9fb0d
-SHA256: c8b463d933d93426f1ab891c15fd7a430330f2103b573e32b617a1cef419bb4f
+Size: 3516912
+MD5sum: 22a38f0e73db5354d1417d6d5e2a76e5
+SHA1: 463616e1f61e6146ad75ea26f55c89817ff9c5c4
+SHA256: 7773406ebefa369ae6b42d16a896d8c433a3bc12cd69828a2b50909fad992922
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
@@ -346,11 +328,11 @@ Maintainer: sunshinesong
 Installed-Size: 13792
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
-Size: 1072
-MD5sum: ee1c76622becbb28685fb471b30c7e51
-SHA1: 84dca2903d11e062eef4f179087047beefee09c2
-SHA256: 5b77820dc47798cc413be457694320a04acd36cd341d18754e1b867fa3ec7073
-Section: 分屏
+Size: 696
+MD5sum: 47df51e2c340142050e093073688449e
+SHA1: 2937c69232a34baa43bde42c186da592eac0dd83
+SHA256: 57ac3f21c96ac15f7b2446f4bb8067922d1e8aad7496daa8344c287d80d780c7
+Section: 分屏＆小窗
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
@@ -363,11 +345,11 @@ Maintainer: sunshinesong
 Installed-Size: 13648
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
-Size: 5185870
-MD5sum: 7483dd1c8b56bea99c8648d745d9c8f6
-SHA1: d5abe1397ed6028d2de8dc2991d8770cb6e94805
-SHA256: 05b542e9767c57b5a647d49aea9284055b9473202d5c3fb15cfb282f0d3495bd
-Section: 分屏
+Size: 5185498
+MD5sum: 51ab3887ff6ad4eb9fdbd3ded3593624
+SHA1: 15bce6b60dd88b2c385d510ff298359cbac106e9
+SHA256: c02657325876ff8cc8e493e07799234c843fcede3910a88a62e85900f2ba28cd
+Section: 分屏＆小窗
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro

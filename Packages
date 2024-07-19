@@ -100,3 +100,20 @@ Description: Gestures
 Author: SquidForce
 Name: SquidGesture Pro
 
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
+Size: 1072
+MD5sum: ee1c76622becbb28685fb471b30c7e51
+SHA1: 84dca2903d11e062eef4f179087047beefee09c2
+SHA256: 5b77820dc47798cc413be457694320a04acd36cd341d18754e1b867fa3ec7073
+Section: 分屏
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+

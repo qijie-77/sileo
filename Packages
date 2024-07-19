@@ -101,23 +101,6 @@ Author: SquidForce
 Name: SquidGesture Pro
 
 Package: com.sunshinesong.split-view-pro
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 12580
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sunshinesong.split-view-pro_1.1.1_iphoneos-arm64.deb
-Size: 4780612
-MD5sum: 578c8b2482dd7947bd7ff5dde683743d
-SHA1: a49ed2606b1b4b2b9b51ca62999ff88fa2420da1
-SHA256: 6cc501a43a915f5808d3add25a51cbe02bfcad6e053262e5e877e597c7cd562e
-Section: 分屏
-Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
-Author: sunshinesong
-Name: split-view-pro
-Ts: sp-sss
-
-Package: com.sunshinesong.split-view-pro
 Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
@@ -193,10 +176,10 @@ Installed-Size: 13648
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
 Size: 5185870
-MD5sum: edfe02af8b23a7afceef38230e7c2674
-SHA1: d0f9702433b68b6f1d43fdef07a4f540569bbd94
-SHA256: 6583aabc5e8293568400b9cfb30436ac9df9321abc9a73928b5e291ccb87f21f
-Section: Tweaks
+MD5sum: 7483dd1c8b56bea99c8648d745d9c8f6
+SHA1: d5abe1397ed6028d2de8dc2991d8770cb6e94805
+SHA256: 05b542e9767c57b5a647d49aea9284055b9473202d5c3fb15cfb282f0d3495bd
+Section: 分屏
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
